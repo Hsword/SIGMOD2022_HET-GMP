@@ -1,0 +1,9 @@
+*.pyc
+*.csv
+*.npz
+*.npy
+*.tar.gz*
+*.pkl.gz
+build/
+.vscode/
+.dataset/
